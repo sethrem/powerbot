@@ -140,7 +140,7 @@ public class Combat extends ClientAccessor {
 	}
 	
 	/**
-	 * 
+	 * Changes your current attack style to said index
 	 * @param index - index to select (0-3)
 	 * @return index has been successfully changed
 	 */
