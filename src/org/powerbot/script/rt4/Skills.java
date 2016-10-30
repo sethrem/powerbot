@@ -107,5 +107,4 @@ public class Skills extends ClientAccessor {
 		}
 		return Constants.SKILLS_XP[level];
 	}
-    
 }
